@@ -1,0 +1,27 @@
+{
+  "name": "intensity-segments",
+  "version": "1.0.0",
+  "description": "Efficient intensity segment management",
+  "main": "intensity-segments.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test-intensity-segments.js",
+    "start": "node intensity-segments.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "algorithm",
+    "data-structure",
+    "segments",
+    "range-operations"
+  ],
+  "author": "Zhongxi Wang",
+  "license": "MIT",
+  "files": [
+    "intensity-segments.js",
+    "test-intensity-segments.js",
+    "README.md"
+  ]
+}
